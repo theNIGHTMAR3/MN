@@ -1,0 +1,1 @@
+Lepiej użyć w tym przypadku aproksymacji, ponieważ pomiary są obarczone błędem. Wartości pomiarów nie są rzeczywistę, więc nie ma potrzeby używania interpolacji. Wyznacznie funkcji przechodzącej przez punkty nie pokazuje lepszej trajektorii, ponieważ same punkty są przybliżone przez niedokładność.
