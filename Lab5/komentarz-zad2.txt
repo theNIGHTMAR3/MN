@@ -1,0 +1,2 @@
+Wykresy pokazują, że obie interpolacje zbiegają się do zera. Jednak trygonometryczna jest stabilna, malejąco dąży do zera. Natomiast wielomianowa jest niestabilna, gwałtownie rośnie, a następnie maleje, ale ostatecznie zbiega się z zerem.
+Dla danych z zadania, interpolacja trygonometryczna jest dokładniejsza oraz daje lepsze rezultaty wraz z większaniem wartości K.

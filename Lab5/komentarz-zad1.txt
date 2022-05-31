@@ -1,0 +1,3 @@
+Obie metody interpolacji w dość przejrzysty sposób pokazują poziom promieniowania w zależności od ilości punktów K. Wraz ze wrostem K rośnie dokładność wykresów interpolacji.
+
+Dokładniejsza wydaje się metoda trygonometryczna, ponieważ wygląda na stabilniejszą. Nie posiada tylu nierówności i spike'ów dla małych wartości K. Wykres interpolacji wielomianej pogarsza się przy zbliżaniu się do krajców pomiarów, co zaburza wizualizacje danych.
