@@ -1,0 +1,3 @@
+Funkcja fzero dla przybliżenia pierwiaska o wartości początkowej 6.0, znalazł wynik w 13 iteracjach, używając tylko metody interpolacji.
+
+Natomiast dla wartości początkowej równej 4.5, po 68 iteracjach nie znalazł wyniku, ponieważ doszedł do punktu osobliwości. Używał naprzemiennie interpolacji oraz bisekcji. Przy zmniejszaniu się sprawdzanego przedziału, zwiększała się amplituda funkcji.
